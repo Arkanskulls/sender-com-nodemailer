@@ -1,0 +1,16 @@
+{
+  "name": "send-node",
+  "version": "1.0.0",
+  "description": "exemplo de send e-mail com node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1"
+  }
+}
